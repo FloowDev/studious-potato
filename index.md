@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## My app-ads.txt
+[App-ads](https://github.com/Xoneman/studious-potato/blob/gh-pages/app-ads.txt)
 
-[App-ads]()
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Xoneman/studious-potato/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
